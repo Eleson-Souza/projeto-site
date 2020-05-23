@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #7796c0;
+    background-color: #77c07d;
 }
 
 main {
@@ -17,4 +17,9 @@ main {
 
 h1 {
     font-size: 30px;
+}
+
+#link-1 {
+    font-size: 18px;
+    color: #50ad4c;
 }
