@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #7796c0;
+    background-color: #77c07d;
 }
 
 main {
@@ -13,4 +13,13 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#link-1 {
+    font-size: 18px;
+    color: #50ad4c;
 }
